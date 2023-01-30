@@ -1,0 +1,7 @@
+apiVersion: v1
+  kind: PriorityClass
+  metadata:
+    name: critical
+  value: 9999999
+  globalDefault: false
+  description: "Use this class for critical service pods only."
