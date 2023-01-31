@@ -23,6 +23,7 @@ https://run-2.lab.kubermatic.io
   - https://aurianer.min-max-1.lab.kubermatic.io
   - https://blue-it-systems.min-max-1.lab.kubermatic.io
   - https://chuba-oraka.min-max-1.lab.kubermatic.io
+  - https://cwreden.min-max-1.lab.kubermatic.io
   - https://dcardellino.min-max-1.lab.kubermatic.io
   - https://eddybett.min-max-1.lab.kubermatic.io
   - https://eirinibarmpati.min-max-1.lab.kubermatic.io
@@ -38,6 +39,8 @@ https://run-2.lab.kubermatic.io
   - https://matthewbednarski.min-max-1.lab.kubermatic.io
   - https://poursadeqi.min-max-1.lab.kubermatic.io
   - https://santiago-torres14.min-max-1.lab.kubermatic.io
+  - https://swibrow.min-max-1.lab.kubermatic.io
+  - https://tmakowka.min-max-1.lab.kubermatic.io
   - https://toschneck-test.min-max-1.lab.kubermatic.io
   - https://vman-me.min-max-1.lab.kubermatic.io
   - https://wrkode.min-max-1.lab.kubermatic.io
