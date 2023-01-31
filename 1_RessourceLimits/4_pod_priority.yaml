@@ -1,0 +1,21 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+ name: priority-test
+---
+apiVersion: scheduling.k8s.io/v1
+kind: PriorityClass
+metadata:
+ name: critical
+value: 9999999
+globalDefault: false
+description: "Use this class for critical service pods only."
+---
+apiVersion: scheduling.k8s.io/v1
+kind: PriorityClass
+metadata:
+ name: high-priority
+value: 7777777
+globalDefault: false
+preemptionPolicy: Never
+description: "Use this class for critical service pods only."

@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+    name: a-pod
+    namespace: priority-test
+spec:
+ containers:
+ - name: a1-container
+   image: nginx
+   imagePullPolicy: IfNotPresent
+   resources:
+     limits:
+       memory: "1Gi"
+       cpu: "400m"
+ priorityClassName: critical
